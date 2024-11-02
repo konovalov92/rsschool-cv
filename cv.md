@@ -1,7 +1,7 @@
 # Konovalov Aleksandr 
 **student front-end developer**  
 
-![Моё фото](/rsschool-cv/my_photo.jpg)
+![Моё фото](./my_photo.jpg)
 
 ## Contacts
 * +7 (917) 099-55-58  
