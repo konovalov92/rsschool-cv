@@ -3,7 +3,7 @@
 **student front-end developer**
 
 
-$$Contacts
+##Contacts
 +7 (917) 099-55-58
 aleks_f24@mail.ru — *preferred method of communication*
 tg - @Aleksandr_rf ; whatsapp - +7 (917) 099-55-58
