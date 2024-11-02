@@ -1,5 +1,4 @@
-##rsschool-cv
-#Konovalov Aleksandr
+#Konovalov Aleksandr#
 **student front-end developer**
 
 
