@@ -1,11 +1,12 @@
-# Konovalov Aleksandr#  
+# Konovalov Aleksandr 
 **student front-end developer**  
 
 
 ## Contacts
-+7 (917) 099-55-58  
-aleks_f24@mail.ru — *preferred method of communication*  
-tg - @Aleksandr_rf ; whatsapp - +7 (917) 099-55-58  
+*+7 (917) 099-55-58  
+*aleks_f24@mail.ru — *preferred method of communication*  
+*tg - @Aleksandr_rf 
+*whatsapp - +7 (917) 099-55-58  
 
 ## Briefly About Myself
 At the moment I am actively mastering web development. Previously trained in the academy of layout Artem Islamov. For the first time I encountered development while studying in college, I liked this sphere of activity very much, but by the will of fate I could not master this profession. 
