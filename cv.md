@@ -26,7 +26,7 @@ Figma
 function solution(str, ending){
   let a = str.length;
   let b = ending.length;
-  let v = a - b;
+  let v = a - b;в
   
   if (a < b) {
     return false;
