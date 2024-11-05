@@ -4,7 +4,7 @@
 ![Моё фото](./my_photo.jpg)
 
 ## Contacts
-* [+7(917)099-55-58](tel:+79170995558) 
+* [+7(917)099-55-58](tel:+7(917)-099-55-58) 
 * aleks_f24@mail.ru — *preferred method of communication*  
 * Telegram - @Aleksandr_rf 
 * Whatsapp - +7 (917) 099-55-58  
