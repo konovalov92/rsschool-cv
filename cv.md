@@ -8,7 +8,7 @@
 * [alexander240292@gmail.com](malto:alexander240292@gmail.com)
 * [Telegram - @Aleksandr_rf](https://t.me/Aleksandr_rf) 
 * [Whatsapp - +7 (917) 099-55-58](https://wa.me/79170995558)
-* Discord - alexander240292 (Alexander24(@konovalov92))
+* Discord - alexander240292 (Alexander24(@konovalov92)) тест
 
 ## Briefly About Myself
 At the moment I am actively mastering web development. Previously trained in the academy of layout Artem Islamov. For the first time I encountered development while studying in college, I liked this sphere of activity very much, but by the will of fate I could not master this profession. 
