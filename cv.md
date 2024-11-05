@@ -4,7 +4,7 @@
 ![Моё фото](./my_photo.jpg)
 
 ## Contacts
-* [+7 (917) 099-55-58](tel:+79170995558)  
+* [+7 (917) 099-55-58](tel:79170995558)  
 * [alexander240292@gmail.com](malto:alexander240292@gmail.com)
 * [Telegram - @Aleksandr_rf](https://t.me/Aleksandr_rf) 
 * [Whatsapp - +7 (917) 099-55-58](https://wa.me/79170995558)
