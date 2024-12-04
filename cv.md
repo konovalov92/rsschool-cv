@@ -1,0 +1,47 @@
+# Konovalov Aleksandr 
+**student front-end developer**  
+
+![Моё фото](./my_photo.jpg)
+
+## Contacts
+* [+7 (917) 099-55-58](tel:79170995558)  
+* [alexander240292@gmail.com](malto:alexander240292@gmail.com)
+* [Telegram - @Aleksandr_rf](https://t.me/Aleksandr_rf) 
+* [Whatsapp - +7 (917) 099-55-58](https://wa.me/79170995558)
+* Discord - alexander240292 (Alexander24(@konovalov92)) тест
+
+## Briefly About Myself
+At the moment I am actively mastering web development. Previously trained in the academy of layout Artem Islamov. For the first time I encountered development while studying in college, I liked this sphere of activity very much, but by the will of fate I could not master this profession. 
+Now I make every possible effort to overcome all the obstacles on the way to my dream!
+
+## Skills and Proficiency:  
+HTML5, CSS3
+JavaScript Basics
+Git, GitHub
+VS Code
+Figma
+
+## Code example  
+```
+function solution(str, ending){
+  let a = str.length;
+  let b = ending.length;
+  let v = a - b;в
+  
+  if (a < b) {
+    return false;
+    } 
+  else if (str.slice(v) === ending){
+    return true;
+    } 
+  else {
+    return false;
+  } 
+}
+```
+
+## Education  
+https://glo.academy/
+
+## English  
+А1 (Beginner)
