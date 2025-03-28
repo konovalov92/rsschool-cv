@@ -1,7 +1,6 @@
 .banner{
     max-width: 430px;
     margin: auto;
-    background-image: url(/images/main_banner.png);
     div{
         text-align: center;
         margin-top: 12px;
@@ -9,6 +8,7 @@
     &_text{
         font-family: Allura-Regular;
         font-size: 24px;
+        color: #fff;
     }
     &_title{
         font-family: Montserrat-SemiBold;
@@ -17,6 +17,7 @@
         text-transform: uppercase;
         line-height: 48px;
         letter-spacing: 5.76px;
+        color: #fff;
     }
     &_button{
         font-family: Montserrat-SemiBold;
@@ -30,3 +31,13 @@
         text-transform: uppercase;
     }
 }
+.section_banner{
+    background-image: url(/images/main_banner.png);
+    background-size: cover;
+    &_position{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 525px;
+    }
+  }
