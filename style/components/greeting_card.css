@@ -1,0 +1,23 @@
+.greeting{
+    background-image: url('/images/AboutSection.png');
+}
+.greeting_card{
+    display: flex;
+    padding: 60px 82px;
+}
+.greeting_card_img{
+    background-color: #fff;
+}
+.greeting_card_img img{
+    max-width: 638px;
+    border-radius: 25px;
+}
+.greeting_card .pretitle{
+    color: #FF4646;
+    font-family: Allura-Regular;
+}
+.greeting_card_text{
+    max-width: 426px;
+    padding: 100px 152px 100px 60px;
+    background-color: #fff;
+}
