@@ -3,7 +3,7 @@
 }
 .greeting_card{
     display: flex;
-    padding: 60px 82px;
+    padding: 60px 0;
 }
 .greeting_card_img{
     background-color: #fff;
@@ -17,7 +17,6 @@
     font-family: Allura-Regular;
 }
 .greeting_card_text{
-    max-width: 426px;
     padding: 100px 152px 100px 60px;
     background-color: #fff;
 }
